@@ -30,6 +30,14 @@
   ],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humxmad/cart-handler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/humxmad/cart-handler/issues"
+  },
+  "homepage": "https://github.com/humxmad/cart-handler#readme",
   "devDependencies": {
     "tsup": "^8.5.1",
     "typescript": "^6.0.3"
